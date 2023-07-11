@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+.btn-primary {
+
+
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+
+
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+
+}
+
+header {
+
+    background: rgba(229, 84, 115, 0.10);
+
+}
+
+
+.banner {
+
+    padding: 97px 97px 0px 240px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-content {
+
+    max-width: 585px;
+}
+
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+
+
+.banner .flower-pic {
+
+    width: 635px;
+
+}
+
+
+
+/* Body */
+
+.o1, .o3, .o4 {
+
+    max-width: 1440px;
+    margin: 0px auto;
+    margin-top: 130px;
+}
+
+
+
+main section {
+    margin-top: 130px;
+}
+
+
+
+
+.section-title {
+
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+
+}
+
+.section-description {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+
+}
+
+
+.flower-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+
+
+}
+
+
+.flowers1 {
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+
+.flowers2 {
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.flowers3 {
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+
+.f1 {
+
+    padding: 110px 78px 0px 76px;
+}
+
+.f2 {
+    padding: 117px 47px 118px 47px;
+}
+
+.f3 {
+    padding: 67px 75px 0px 75px;
+}
+
+
+
+/* hot section */
+
+.hot {
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    justify-content: space-around;
+}
+
+.hot-deal {
+
+    text-align: center;
+
+
+}
+
+.hot-description {}
+
+.hot-para {}
+
