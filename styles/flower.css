@@ -153,6 +153,13 @@ main section {
     padding: 67px 75px 0px 75px;
 }
 
+.flower-container23 {
+    display: flex;
+    justify-content: center;
+    gap: 290px;
+   
+
+}
 
 
 /* hot section */
@@ -310,4 +317,17 @@ main section {
 .colourchange2 {
     color: white;
 
+}
+
+
+.contactus{
+
+  
+  
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    
+  
+    display: flex;
+    justify-content: space-around;
 }
